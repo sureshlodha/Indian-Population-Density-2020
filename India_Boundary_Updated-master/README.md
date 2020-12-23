@@ -1,2 +1,2 @@
 # India_Boundary_Updated
-For Details: https://bit.ly/2V0wGMq
+from https://github.com/sssmartsearch/India_Boundary_Updated
